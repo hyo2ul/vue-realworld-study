@@ -1,24 +1,25 @@
 # vue-realworld-clone
 
-## Project setup
-```
-yarn install
-```
+## 세팅
+1. 상수명 정의
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## header
+- [ ] 홈으로 이동
+- [ ] 로그인
+- [ ] 회원가입
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## container
+- [ ] list
+    * read router
+    * like
+- [ ] read
+- [ ] write
+- [ ] pagination
+- [ ] tag
+
+
+## footer
+- 문구
+
